@@ -31,6 +31,6 @@ You can easily understand how to make an authentication in ASP.NET using Razor.
 # 💥 What does it do ?
 
 - [x] Saving all the data inside EntityFramework
-- [x] Encrypt passwords in SHA256
+- [x] Passwords hashed with SHA256
 - [x] Asynchronous actions
 - [x] Easy to understand
