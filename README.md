@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://github.com/NotAccursed/Authentication/issues">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/NAccursed">Twitter</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/ga_asaro">Twitter</a>&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/invite/f55n5tM">Discord</a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/notaccursedtelegram">Telegram</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <sub>Built with ❤︎ by <a href="https://twitter.com/NAccursed">NotAccursed</a></sub>
+  <sub>Built with ❤︎ by <a href="https://twitter.com/ga_asaro">NotAccursed</a></sub>
 </p>
 <br>
 
