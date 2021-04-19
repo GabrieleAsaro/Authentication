@@ -30,7 +30,7 @@ namespace Authentication.Pages.Auth
 
             User.Password = Protection.Sha256(User.Password);
 
-            var user = await _db.User.FirstOrDefaultAsync(u => u.Username == User.Username && u.Password == u.Password);
+            var user = await _db.User.FirstOrDefaultAsync(u => u.Username == User.Username && u.Password == User.Password);
 
             if (user == null) return Page();
             
