@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="380" height="380" src="https://i.imgur.com/kDkwJB9.png" alt="Authentication">
+    <img width="469" height="282" src="https://i.imgur.com/dOpe5my.png" alt="Authentication">
     <br>
     <br>
     <br>
